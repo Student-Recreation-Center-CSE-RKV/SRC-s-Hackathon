@@ -1,4 +1,4 @@
-# Aadhya_Hackathon_2k24
+# SRC's Hackathon
 
 Think, Build, and Collab
 
